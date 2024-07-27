@@ -1,18 +1,24 @@
 # Hornet X Software Assignment 3
 
 This repository contains a ROS2 package called "assignment3". It includes a basic detector node.
+
 Your task is to implement a node that draws a bounding box around key objects and label them appropriately.
+
 You may publish detections in a single topic or multiple topics (each topic for dedicated object).
+
 Objects in bag:
 1. Red Drum
 2. Red Flare
 3. Orange Flare
 4. Gate
 5. Blue Drum
+
 Refer to the third workshop for more details.
 
-Assignment 3 not required to submit through email. You may present your work during your interview!
-Optional: Zip and email your solution to hornetxauv2425@gmail.com with subject [Software Homework 3] \<Name\>.
+> [!IMPORTANT]  
+>Assignment 3 not required to submit through email. You may present your work during your interview!
+> 
+>Optional: Zip and email your solution to hornetxauv2425@gmail.com with subject [Software Homework 3] \<Name\>.
 
 ## Playing ROS2 bags
 
