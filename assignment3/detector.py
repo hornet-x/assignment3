@@ -13,7 +13,7 @@ class Detector(Node):
         self.pub_debug_img = self.create_publisher(Image, "/detected/debug_img", 10)
         self.sub_image_feed = self.create_subscription(
             CompressedImage,
-            "/auv/bot_cam/image_color/compressed",
+            "/left/compressed",
             self.image_feed_callback,
             10)
         self.bridge = CvBridge()
