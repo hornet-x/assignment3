@@ -18,7 +18,7 @@ Refer to the third workshop for more details.
 > [!IMPORTANT]  
 >Assignment 3 not required to submit through email. You may present your work during your interview!
 > 
->Optional: Zip and email your solution to hornetxauv2425@gmail.com with subject [Software Homework 3] \<Name\>.
+>Optional: Zip and email your solution to hornetxauv2425@gmail.com with subject "[Software Homework 3] \<Name\>".
 
 ## Playing ROS2 bags
 
